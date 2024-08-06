@@ -26,11 +26,11 @@ $ cd Cardapio-Digital-BackEnd
 
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven
 
-<img width="300px" src="./.github/DevKneves/Cardapio-Digital-BackEnd/img/instalar-deps.png">
+<img width="300px" src="https://github.com/DevKneves/Cardapio-Digital-BackEnd/blob/main/img/instalar-deps.png">
 
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
 
-<img width="300px" src="./.github/DevKneves/Cardapio-Digital-BackEnd/img/executar.png">
+<img width="300px" src="https://github.com/DevKneves/Cardapio-Digital-BackEnd/blob/main/img/executar.png">
 
 <h2 id="related">🫂 Integração com Frontend</h2>
 Link do Front-End: https://github.com/DevKneves/Cardapio-Digital-FrontEnd
